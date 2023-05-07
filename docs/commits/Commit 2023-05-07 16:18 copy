@@ -1,0 +1,11 @@
+Additioned new classes to simplify general processes in projects.
+
+Warning:
+    - No warnings.
+
+Additioned:
+    - "domain/utils/context.py" new class to simplify the access to project's path;
+    - "domain/utils/logger.py" new class to simplify the creation of project's logs.
+
+Revised:
+    - No revisions.
